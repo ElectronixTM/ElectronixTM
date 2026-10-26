@@ -6,9 +6,21 @@ I'm just a yet another systems programmer and software developer. I like low-lev
 
 ## Tech Stack
 
-* **Languages:** <img src="https://skillicons.dev/icons?i=c,cpp,rust,asm,bash" height="16" align="center" alt="Languages" />
-* **OS & Kernel:** <img src="https://skillicons.dev/icons?i=linux,debian,arch" height="16" align="center" alt="OS" />
-* **Tools:** <img src="https://skillicons.dev/icons?i=git,cmake,vim,neovim,nerdctl" height="16" align="center" alt="Tools" />
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Zig](https://img.shields.io/badge/Zig-000000?style=for-the-badge&logo=rust&logoColor=white)
+![ASM](https://img.shields.io/badge/ASM-555555?style=for-the-badge&logo=gnu-asm&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+![nerdctl](https://img.shields.io/badge/nerdctl-222222?style=for-the-badge)
+
 
 <!--
 **ElectronixTM/ElectronixTM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
