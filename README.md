@@ -8,7 +8,7 @@ I'm just a yet another systems programmer and software developer. I like low-lev
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Zig](https://img.shields.io/badge/Zig-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Zig](https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge&logo=zig&logoColor=white)
 ![ASM](https://img.shields.io/badge/ASM-555555?style=for-the-badge&logo=gnu-asm&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 
