@@ -1,4 +1,14 @@
-## Hi there 👋
+# Hi
+
+I'm just a yet another systems programmer and software developer. I like low-level stuff, like to learn about performance optimizations (but never do them at actual work), and yep, my code crashed the kernel a lot of times.
+
+---
+
+## Tech Stack
+
+* **Languages:** <img src="https://skillicons.dev/icons?i=c,cpp,rust,asm,bash" height="16" align="center" alt="Languages" />
+* **OS & Kernel:** <img src="https://skillicons.dev/icons?i=linux,debian,arch" height="16" align="center" alt="OS" />
+* **Tools:** <img src="https://skillicons.dev/icons?i=git,cmake,vim,neovim,nerdctl" height="16" align="center" alt="Tools" />
 
 <!--
 **ElectronixTM/ElectronixTM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
